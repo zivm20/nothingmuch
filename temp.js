@@ -1,3 +1,3 @@
 <script>
-alert("hello");
+function hey() {alert("hello");}
 </script>
